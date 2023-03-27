@@ -1,0 +1,30 @@
+/**
+ * Theme Name:  ZH-Theme
+ * Description: Короткое описание темы
+ * 
+ * Theme URI:   URL темы. Пр: http://wordpress.org/themes/twenty
+ * Author:      Zaur
+ * Author URI:  https://github.io/Zaur1315
+ *
+ * Tags:        black, brown, orange
+ * Text Domain: Домен перевода темы. Пр: twentythirteen
+ *
+ * License:     Лицензия. Пр: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Version:     1.0
+ */
+
+ .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
